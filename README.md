@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **taekb/taekb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![alt_text](https://github.com/taekb/taekb/cmughc.jpg?raw=true)
+
+### Hi there 👋
