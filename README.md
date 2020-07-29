@@ -13,6 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![alt_text](https://github.com/taekb/taekb/cmughc.jpg?raw=true)
+![alt_text](https://github.com/taekb/taekb/blob/master/cmughc.jpg?raw=true)
 
 ### Hi there 👋
