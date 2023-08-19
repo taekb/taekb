@@ -4,4 +4,3 @@ I'm a Ph.D. student in the [Machine Learning Department](https://www.ml.cmu.edu/
 - 📊  Statistics
 - 💪  Robustness
 - 🏥  Healthcare
-- 🧠  Neuroscience
